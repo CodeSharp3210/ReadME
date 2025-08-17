@@ -1,1 +1,1 @@
-Contenuto per Pull Shark Badge
+printf("Contenuto per Pull Shark Badge")
